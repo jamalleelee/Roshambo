@@ -9,9 +9,5 @@ public class DwayneTheRockJohnson extends Player {
 	public DwayneTheRockJohnson(String name, int moveTaken) {
 		super("Dwayne The Rock Johnson", 1);
 	}
-	
-	
-	
-	
 
 }

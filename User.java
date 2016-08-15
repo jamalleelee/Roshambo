@@ -6,9 +6,8 @@ public class User extends Player {
 		super();
 	}
 
-	public  User(String name, int moveTaken) {
+	public User(String name, int moveTaken) {
 		super(name, moveTaken);
 	}
-
 
 }

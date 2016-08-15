@@ -7,7 +7,7 @@ public class CrazyHoboMan extends Player {
 	}
 
 	public CrazyHoboMan(String name, int moveTaken) {
-		super("Crazy Hobo Man", (int) ((Math.random()*3)+1));
+		super("Crazy Hobo Man", (int) ((Math.random() * 3) + 1));
 	}
 
 	
